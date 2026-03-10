@@ -1,15 +1,16 @@
 <h1 align="center"><b>AI Engineer | RAG Systems</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="GIF" width="35" /></h1>
 
 <br>
-<p align="center">
+
 ## Technologies
 
 ### LLMs
+<p align="center">
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=101010)]()
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=101010)]()
 [![Transformers](https://img.shields.io/badge/Transformers-FFB000?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=101010)]()
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=101010)]()
-
+</p>
 <br>
 
 ### ML / Deep Learning
@@ -59,7 +60,7 @@
 [![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white&labelColor=101010)]()
 
 <br>
-</p>
+
 
 <br>
 
