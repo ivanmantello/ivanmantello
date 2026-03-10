@@ -2,7 +2,7 @@
 
 <br>
 
-## Tecnologías
+## Tech
 
 ### LLMs
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=101010)]()
@@ -27,6 +27,7 @@
 
 ### Vector Databases
 [![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white&labelColor=101010)]()
+[![ChromaDB](https://img.shields.io/badge/ChromaDB-5A67D8?style=for-the-badge&labelColor=101010)]()
 [![Pinecone](https://img.shields.io/badge/Pinecone-00684A?style=for-the-badge&logo=pinecone&logoColor=white&labelColor=101010)]()
 [![Weaviate](https://img.shields.io/badge/Weaviate-00C7B7?style=for-the-badge&logo=weaviate&logoColor=white&labelColor=101010)]()
 
@@ -55,6 +56,7 @@
 ### Cloud
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=101010)]()
 [![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
+[![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white&labelColor=101010)]()
 
 <br>
 
