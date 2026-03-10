@@ -1,7 +1,7 @@
 <h1 align="center"><b>AI Engineer | RAG Systems</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="GIF" width="35" /></h1>
 
 <br>
-
+<p align="center">
 ## Technologies
 
 ### LLMs
@@ -59,7 +59,7 @@
 [![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white&labelColor=101010)]()
 
 <br>
-
+</p>
 
 <br>
 
