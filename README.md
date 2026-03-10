@@ -74,7 +74,7 @@
 
 ####  💻 Deploy: [Enterprise AI Copilot](https://enterprise-ai-copilot.vercel.app/)
 
-####   Repositorios:
+####   Repositories:
  [![FrontEnd](https://img.shields.io/badge/FrontEnd-0A66C2?logo=GitHub&logoColor=white)](https://github.com/ivanmantello/enterprise-ai-copilot-frontend)
  [![BackEnd](https://img.shields.io/badge/BackEnd-181717?logo=GitHub&logoColor=white)](https://github.com/ivanmantello/enterprise-ai-copilot-backend)
 
