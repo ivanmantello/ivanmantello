@@ -2,7 +2,7 @@
 
 <br>
 
-## Tech
+## Technologies
 
 ### LLMs
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=101010)]()
@@ -16,6 +16,19 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=101010)]()
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=101010)]()
 [![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=101010)]()
+
+<br>
+
+### Data Processing
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=101010)]()
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=101010)]()
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=101010)]()
+
+<br>
+
+### Core / Serving APIs
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=101010)]()
 
 <br>
 
@@ -33,23 +46,10 @@
 
 <br>
 
-### Serving APIs
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=101010)]()
-
-<br>
-
 ### MLOps / Deployment
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=101010)]()
 [![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white&labelColor=101010)]()
-
-<br>
-
-### Data Processing
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=101010)]()
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=101010)]()
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=101010)]()
 
 <br>
 
@@ -66,27 +66,18 @@
 <br>
 
 
-## Proyectos:
+## Featured AI Project
 
 <br>
 
-**Help Community** - Este fue un modelo de ecommerce con inicio de sesión, autenticación de terceros, carrito de compras, pasarela de pagos, reseñas, filtros de productos y perfil privado de administrador (con rutas protegidas, permite la posibilidad de crear y editar productos, filtrar por ventas, gestionar permisos de usuarios, acceder a métricas y enviar mails masivos a los usuarios registrados).
+**Enterprise AI Copilot** - AI system that answers questions from large document collections using embeddings and vector search.
 
-####  💻 Deploy: [Help Community](https://help-community-theta.vercel.app/)
+####  💻 Deploy: [Enterprise AI Copilot](https://enterprise-ai-copilot.vercel.app/)
 
 ####   Repositorios:
- [![FrontEnd](https://img.shields.io/badge/FrontEnd-0A66C2?logo=GitHub&logoColor=white)](https://github.com/imante23/help-community/tree/main/Client)
- [![BackEnd](https://img.shields.io/badge/BackEnd-181717?logo=GitHub&logoColor=white)](https://github.com/imante23/help-community/tree/main/Api)
+ [![FrontEnd](https://img.shields.io/badge/FrontEnd-0A66C2?logo=GitHub&logoColor=white)](https://github.com/ivanmantello/enterprise-ai-copilot-frontend)
+ [![BackEnd](https://img.shields.io/badge/BackEnd-181717?logo=GitHub&logoColor=white)](https://github.com/ivanmantello/enterprise-ai-copilot-backend)
 
 <br>
 
 
-**Drivers App** - . Es un aplicación web Full Stack para que reune toda la información de todos los corredores de Formula 1. Cuenta con una base de datos propia para crear tarjetas de corredores nuevos, y una API externa para complementar con la información necesaria.  
-   
-####  💻 Deploy: [Drivers App](https://f1drivers.vercel.app/)
-
-####   Repositorios:
- [![FrontEnd](https://img.shields.io/badge/FrontEnd-0A66C2?logo=GitHub&logoColor=white)](https://github.com/imante23/drivers-app/tree/master/client)
- [![BackEnd](https://img.shields.io/badge/BackEnd-181717?logo=GitHub&logoColor=white)](https://github.com/imante23/drivers-app/tree/master/server)
-
-<br>
