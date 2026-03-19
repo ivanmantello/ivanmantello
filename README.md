@@ -1,4 +1,4 @@
-<h1 align="center"><b>AI Engineer | RAG Systems</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="GIF" width="35" /></h1>
+<h1 align="center"><b>AI Engineer</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="GIF" width="35" /></h1>
 
 <br>
 
