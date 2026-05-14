@@ -34,6 +34,7 @@
 
 ### RAG Frameworks
 [![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&labelColor=101010)]()
+[![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&labelColor=101010)]()
 [![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge&labelColor=101010)]()
 
 <br>
@@ -66,13 +67,24 @@
 <br>
 
 
-## Featured AI Project
+## Featured AI Projects
+
+<br>
+
+**AI Operations System** - AI system that gives insights from large document collections using LLMs and AI orchestration.
+
+####  💻 Live DEMO: [Enterprise AI Copilot](https://rappi-production.up.railway.app/)
+
+####   Repository:
+[![Full Stack](https://img.shields.io/badge/Full_Stack-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ivanmantello/rappi)
+
+<br>
 
 <br>
 
 **Enterprise AI Copilot** - AI system that answers questions from large document collections using embeddings and vector search.
 
-####  💻 Deploy: [Enterprise AI Copilot](https://enterprise-ai-copilot.vercel.app/)
+####  💻 Live DEMO: [Enterprise AI Copilot](https://enterprise-ai-copilot.vercel.app/)
 
 ####   Repositories:
  [![FrontEnd](https://img.shields.io/badge/FrontEnd-0A66C2?logo=GitHub&logoColor=white)](https://github.com/ivanmantello/enterprise-ai-copilot-frontend)
