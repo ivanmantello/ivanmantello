@@ -39,6 +39,13 @@
 
 <br>
 
+### Databases
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
+[![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&labelColor=101010)]()
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=101010)]()
+
+<br>
+
 ### Vector Databases
 [![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white&labelColor=101010)]()
 [![ChromaDB](https://img.shields.io/badge/ChromaDB-5A67D8?style=for-the-badge&labelColor=101010)]()
