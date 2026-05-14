@@ -92,9 +92,9 @@
 ####   Repository:
 [![AI Full Stack](https://img.shields.io/badge/AI_Full_Stack-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ivanmantello/rappi)
 
-[![Excel Knowledge Base](https://img.shields.io/badge/Excel_Knowledge_Base-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)]([./docs/data.xlsx](https://github.com/ivanmantello/rappi/blob/main/data/RAW_INPUT_METRICS.xlsx))
+[![Excel Knowledge Base](https://img.shields.io/badge/Excel_Knowledge_Base-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://github.com/ivanmantello/rappi/blob/main/data/RAW_INPUT_METRICS.xlsx)
 
-[![Excel Knowledge Base](https://img.shields.io/badge/Excel_Knowledge_Base-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)]([./docs/data.xlsx](https://github.com/ivanmantello/rappi/blob/main/data/RAW_ORDERS.xlsx))
+[![Excel Knowledge Base](https://img.shields.io/badge/Excel_Knowledge_Base-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://github.com/ivanmantello/rappi/blob/main/data/RAW_ORDERS.xlsx)
 
 <br>
 
