@@ -87,10 +87,10 @@
 
 **AI Operations System** - AI system that gives insights from large document collections using LLMs and AI orchestration.
 
-####  💻 Live DEMO: [Enterprise AI Copilot](https://rappi-production.up.railway.app/)
+####  💻 Live DEMO: [AI Operations System for Rappi](https://rappi-production.up.railway.app/)
 
 ####   Repository:
-[![Full Stack](https://img.shields.io/badge/Full_Stack-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ivanmantello/rappi)
+[![AI Full Stack](https://img.shields.io/badge/AI_Full_Stack-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ivanmantello/rappi)
 
 <br>
 
